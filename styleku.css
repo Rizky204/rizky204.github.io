@@ -9,7 +9,7 @@ ion-icon.man, ion-icon.book {
   }
   
 
-  @media (max-width: 400px)
+  @media (max-width: 450px)
   {
     .main_content section.banner .banner {
         background-image: url( wp-content/uploads/sites/2/2017/04/banner.png);
