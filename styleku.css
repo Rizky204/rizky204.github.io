@@ -1,0 +1,17 @@
+ion-icon.man, ion-icon.book {
+    font-size: 30px;
+    position: relative;
+    top: 7px;
+    color: rgba(0, 0, 0, .4);
+  }
+  ion-icon.trophy {
+    font-size: 40px;
+  }
+
+  @media (max-width: 400px)
+  {
+    .main_content section.banner .banner {
+        background-image: url( wp-content/uploads/sites/2/2017/04/banner.png);
+        background-position: -10px 170px;
+    }
+  }
