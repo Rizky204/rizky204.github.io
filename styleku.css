@@ -7,11 +7,12 @@ ion-icon.man, ion-icon.book {
   ion-icon.trophy {
     font-size: 40px;
   }
+  
 
   @media (max-width: 400px)
   {
     .main_content section.banner .banner {
         background-image: url( wp-content/uploads/sites/2/2017/04/banner.png);
-        background-position: -10px 170px;
+        background-position: 577px;
     }
   }
